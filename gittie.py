@@ -9,3 +9,4 @@ def add(a, b):
 
 def shout():
     return("F***ing not working")
+    return "I HATE MERGIIIIIIING!!!"
