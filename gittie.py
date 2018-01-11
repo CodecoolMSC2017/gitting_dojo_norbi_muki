@@ -4,5 +4,8 @@ def introduce():
 def joke():
     return("Why java developers has glasses. Because they can't C#")
 
-def deduct(a, b):
-    return a + b
+def add(a, b):
+    return a - b
+
+def shout():
+    return("F***ing not working")
